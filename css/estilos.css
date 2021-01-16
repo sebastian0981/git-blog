@@ -8,7 +8,22 @@ body {
     width: 70%;
     padding: 1px;
     text-align: left;
-    color: aqua;
     border: 1px solid black;
+    margin: 0;
+    padding: 0;
     
+}
+
+#cabecera{
+    margin: 0;
+    padding: 0;
+    width: 60%;
+    background-color: deeppink;
+    
+
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
 }
