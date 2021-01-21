@@ -8,3 +8,5 @@ cosillas
 estoy en la mac
 
 aca en github
+
+instalacion de oh-my-zsh
